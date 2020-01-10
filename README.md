@@ -1,0 +1,1 @@
+# theia-host-extensions
