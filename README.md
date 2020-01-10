@@ -1,1 +1,1 @@
-# theia-host-extensions
+# Eclipse Theia Host Extensions
